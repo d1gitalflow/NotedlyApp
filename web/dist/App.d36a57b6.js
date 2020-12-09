@@ -53675,7 +53675,7 @@ var Navigation = function Navigation() {
   }, _react.default.createElement("span", {
     "aria-hidden": "true",
     role: "img"
-  }, "\uD83D\uDCD3"), "Minhas notas(Notes)")), _react.default.createElement("li", null, _react.default.createElement(_reactRouterDom.Link, {
+  }, "\uD83D\uDCD3"), "Notas(Notes)")), _react.default.createElement("li", null, _react.default.createElement(_reactRouterDom.Link, {
     to: "/favorites"
   }, _react.default.createElement("span", {
     "aria-hidden": "true",
@@ -71431,7 +71431,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49952" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50406" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
