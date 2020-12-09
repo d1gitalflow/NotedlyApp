@@ -1,7 +1,7 @@
 {
   "name": "notedlyapp-web",
   "version": "1.0.0",
-  "description": "NotedlyApp -eb",
+  "description": "NotedlyApp web",
   "main": "src/index.js",
   "scripts": {
     "dev": "parcel src/index.html",

@@ -2,10 +2,12 @@
 - With this fullstack app you can Create, Edit, Remove and Read Notes.
 - Favorite and Unfavorite Notes.
 - Securely create an account and login.
-- See a public Note's feed 
-- See favorited Notes 
-- See own user Notes
-- Persist all data in MongoDB
+- See a public Note's feed. 
+- See favorited Notes. 
+- See own user Notes.
+- Persist all data in MongoDB.
+- Unique Permalinks for each note.
+- Random Avatars (gravatars) for each user.
 
 
 
@@ -21,7 +23,7 @@
 ### Server side ( nodejs ) is using:
 - Node.js
 - Express.js
-- Apollo-Server
+- Apollo-Server (GraphQL)
 - MongoDB - (mongoose.js module)
 
 
@@ -33,7 +35,7 @@
 ## Frontend details:
 - React
 - React-DOM
-- Apollo-Client
+- Apollo-Client (GraphQL)
 - Styled Components (CSS-in-JS)
 
 
