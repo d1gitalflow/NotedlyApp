@@ -62,7 +62,7 @@ const Navigation = () => {
                         <span aria-hidden="true" role="img">
                             📓
                 </span>
-                Minhas notas(Notes)
+                Notas(Notes)
               </Link>
                 </li>
                 <li>
