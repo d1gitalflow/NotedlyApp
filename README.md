@@ -41,4 +41,4 @@
 ## Related Repositories (NotedlyApp)
 
 - [API](https://github.com/)
-- [WEB](https://github.com/)
+- [WEB](https://github.coom/)
