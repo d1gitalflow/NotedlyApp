@@ -51,6 +51,6 @@ http://localhost:4001/api
 
 ## Related Repositories (NotedlyApp)
 
-- [API](https://github.com/)
-- [WEB](https://github.com/)
+- [API](https://github.com/d1gitalflow/NotedlyApp/tree/master/api)
+- [WEB](https://github.com/d1gitalflow/NotedlyApp/tree/master/web)
 

@@ -10,8 +10,8 @@
 
 
 ## Install & run
-- See [API](https://github.com/) install instructions
-- See [WEB](https://github.com/) install instructions
+- See [API](https://github.com/d1gitalflow/NotedlyApp/tree/master/api#install--run-api) install instructions
+- See [WEB](https://github.com/d1gitalflow/NotedlyApp/tree/master/web#install) install instructions
 
 
 
@@ -40,5 +40,5 @@
 
 ## Related Repositories (NotedlyApp)
 
-- [API](https://github.com/)
-- [WEB](https://github.cooom/)
+- [API](https://github.com/d1gitalflow/NotedlyApp/tree/master/api)
+- [WEB](https://github.com/d1gitalflow/NotedlyApp/tree/master/web)
