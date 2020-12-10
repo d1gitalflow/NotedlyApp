@@ -1,5 +1,6 @@
 # NotedlyApp
 - With this fullstack app you can Create, Edit, Remove and Read Notes.
+- Use Markdown styling on notes.
 - Favorite and Unfavorite Notes.
 - Securely create an account and login.
 - See a public Note's feed. 
@@ -9,7 +10,8 @@
 - Unique Permalinks for each note.
 - Random Avatars (gravatars) for each user.
 
-
+## Demo:
+https://notedlyapp.netlify.app/
 
 ## Install & run
 - See [API](https://github.com/d1gitalflow/NotedlyApp/tree/master/api#install--run-api) install instructions
