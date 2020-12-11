@@ -53631,7 +53631,7 @@ var Header = function Header(props) {
     to: '/signin'
   }, "Entrar(Login)"), " or ", ' ', _react.default.createElement(_reactRouterDom.Link, {
     to: '/signup'
-  }, "Inscrever(Signup"))));
+  }, "Inscrever(Signup)"))));
 }; //embrulhamos o Header component dentro de withRouter
 
 
@@ -53685,7 +53685,12 @@ var Navigation = function Navigation() {
   }, _react.default.createElement("span", {
     "aria-hidden": "true",
     role: "img"
-  }, "\u2795"), "Nova nota(New)"))));
+  }, "\u2795"), "Nova nota(New)")), _react.default.createElement("li", null, _react.default.createElement("a", {
+    href: "https://github.com/d1gitalflow/NotedlyApp"
+  }, _react.default.createElement("span", {
+    "aria-hidden": "true",
+    role: "img"
+  }, "\uD83D\uDD0D"), "Github"))));
 };
 
 var _default = Navigation;
@@ -71431,7 +71436,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "57672" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60331" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

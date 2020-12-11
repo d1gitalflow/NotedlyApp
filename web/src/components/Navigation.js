@@ -82,12 +82,12 @@ const Navigation = () => {
               </Link>
                 </li>
                 <li>
-                    <Link to="/https://github.com/d1gitalflow/NotedlyApp">
+                    
+                    <a href="https://github.com/d1gitalflow/NotedlyApp">
                         <span aria-hidden="true" role="img">
                             🔍 
                 </span>
-                Github
-              </Link>
+                Github</a>
                 </li>
             </NavList>
         </Nav>
