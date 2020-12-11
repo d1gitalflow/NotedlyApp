@@ -66,7 +66,7 @@ const Header = props => {
                 </ButtonAsLink>) : (
                 <p>
                     <Link to={'/signin'}>Entrar(Login)</Link> or {' '}
-                    <Link to={'/signup'}>Inscrever(Signup</Link>
+                    <Link to={'/signup'}>Inscrever(Signup)</Link>
                 </p>
                 )}
             </UserState>

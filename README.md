@@ -16,7 +16,7 @@ https://notedlyapp.netlify.app/
 ## Install & run
 - See [API](https://github.com/d1gitalflow/NotedlyApp/tree/master/api#install--run-api) install instructions
 - See [WEB](https://github.com/d1gitalflow/NotedlyApp/tree/master/web#install) install instructions
-- See [Desktop](https://github.com/d1gitalflow/NotedlyApp/tree/master/web#install) install instructions
+- See [Desktop](https://github.com/d1gitalflow/NotedlyApp/tree/master/desktop#install-desktop-notedlyapp) install instructions
 
 
 
