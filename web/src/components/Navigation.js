@@ -81,6 +81,14 @@ const Navigation = () => {
                 Nova nota(New)
               </Link>
                 </li>
+                <li>
+                    <Link to="/https://github.com/d1gitalflow/NotedlyApp">
+                        <span aria-hidden="true" role="img">
+                            🔍 
+                </span>
+                Github
+              </Link>
+                </li>
             </NavList>
         </Nav>
     );
