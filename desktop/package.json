@@ -1,0 +1,33 @@
+{
+  "name": "notedly-desktop",
+  "version": "0.1.0",
+  "description": "electron app for notedlyapp",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src/index.js",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "build":{
+    "appId": "app.netlify.notedlyapp",
+    "productName":"NotedlyApp",
+    "directories":{
+      "buildResources":"resources"
+    }
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "@d1gitalflow",
+  "devDependencies": {
+    "electron": "6.0.0",
+    "electron-builder": "21.2.0",
+    "eslint": "6.1.0",
+    "eslint-config-prettier": "6.0.0",
+    "eslint-plugin-prettier": "3.1.0",
+    "prettier": "1.18.2"
+  },
+  "dependencies": {
+    "electron-util": "0.12.1"
+  }
+}

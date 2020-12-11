@@ -1,4 +1,4 @@
-# NotedlyApp WEB
+# NotedlyApp Desktop
 - With this fullstack app you can Create, Edit, Remove and Read Notes.
 - Favorite and Unfavorite Notes.
 - Securely create an account and login.
@@ -6,29 +6,24 @@
 - See favorited Notes 
 - See own user Notes
 - Persist all data in MongoDB
+- ### NotedlyApp is mostly a wrapper inside a Electron shell. 
 
 
-## Install
-Run the commands inside /web folder
-```
-npm install #install nodejs modules
-npm run dev #kickstart browser page (localhost:1234)
-```
-## Update .env.example to .env and connect to the backend by adding this line:
-```
-API_URI=http://localhost:4001/api
-``` 
-Access home page of app on ( port:1234 ):
-```
-localhost:1234
-```
-## Web details:
 
-### Frontend modules:
-- React
-- React-DOM
-- Apollo-Client
-- Styled Components (CSS-in-JS)
+## Install Desktop NotedlyApp
+
+- [Download NotedlyApp](https://github.com/d1gitalflow/NotedlyApp/releases/download/v0.1.0/NotedlyApp.Setup.0.1.0.exe)
+- Run NotedlyApp.Setup.0.1.0.exe on your windows
+
+## NotedlyApp desktop client details:
+
+- Electron
+- Electron-Builder
+- Electron-Util
+- Settings to kickstart chrome devtools during developer-mode, and to hide it during production mode.
+
+
+
 
 
 ## Related Repositories (NotedlyApp)

@@ -53,4 +53,5 @@ http://localhost:4001/api
 
 - [API](https://github.com/d1gitalflow/NotedlyApp/tree/master/api)
 - [WEB](https://github.com/d1gitalflow/NotedlyApp/tree/master/web)
+- [Desktop](https://github.com/d1gitalflow/NotedlyApp/tree/master/desktop)
 
